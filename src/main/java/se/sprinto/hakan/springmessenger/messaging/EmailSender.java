@@ -14,8 +14,8 @@ import java.util.Properties;
 
 @Component("email")
 public class EmailSender implements Messenger {
-    private static final String FROM = "hakan.gleissman@gmail.com";
-    private static final String APP_PASSWORD = "qbcw nwnj bhes hgxh";
+    private static final String FROM = "INPUT_VALID_GMAIL_ADDRESS_HERE";
+    private static final String APP_PASSWORD = "INPUT_VALID_APP_PASSWORD_HERE";
 
 
     @Override
