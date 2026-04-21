@@ -10,7 +10,7 @@
     </parent>
     <groupId>se.sprinto.hakan</groupId>
     <artifactId>spring-messenger</artifactId>
-    <version>1.0.3</version>
+    <version>1.0.6</version>
     <name>spring-messenger</name>
     <description>spring-messenger</description>
     <url/>
